@@ -71,11 +71,11 @@ int main()
 
    
 
-    std::vector<int> mapi = {1, 34, 98, 2};
-    std::cout << mapi.back() << endl;
-    mapi.pop_back();
-    std::cout << mapi.back() << endl;
-    std::cout << "src path:" << std::__fs::filesystem::current_path() << std::endl;
+    // std::vector<int> mapi = {1, 34, 98, 2};
+    // std::cout << mapi.back() << endl;
+    // mapi.pop_back();
+    // std::cout << mapi.back() << endl;
+    // std::cout << "src path:" << std::__fs::filesystem::current_path() << std::endl;
 
     exit(0);
 
